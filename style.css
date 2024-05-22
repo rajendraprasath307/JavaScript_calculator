@@ -1,6 +1,5 @@
 body {
     display: flex;
-    
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -22,8 +21,8 @@ body {
 
 #result {
     width: 100%;
-    
-    font-size: 2em;
+    font-size: 2.5em;
+    height: 60px;
     text-align: right;
     border: none;
     background-color: #f7f7f7;
@@ -45,6 +44,17 @@ button {
     background-color: #e0e0e0;
     box-shadow: 0 2px #b0b0b0;
     cursor: pointer;
+}
+
+button.zero {
+    grid-column: span 2;
+}
+
+button.equal {
+    grid-column: span 2;
+}
+button.plus{
+    grid-column: span 2;
 }
 
 button:active {
