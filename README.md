@@ -16,7 +16,7 @@ You can see a live demo of the calculator [here](https://rajendraprasath307.gith
 
 ## Screenshots
 
-![Calculator Screenshot](./Screenshot 2024-05-22 151128)
+![Calculator Screenshot](./Screenshot 2024-05-22 151128.png)
 
 ## Technologies Used
 
@@ -33,4 +33,4 @@ This `README.md` provides a comprehensive overview of your project, including:
 - An overview of the code structure with specific mentions of recent changes.
 - Information on contributing and licensing.
 
-Make sure to replace `./Screenshot 2024-05-22 151128` with the actual path to your screenshot and update the demo link if you have a live version hosted somewhere. This will make your README more informative and helpful to users and contributors.
+Make sure to replace `./Screenshot 2024-05-22 151128.png` with the actual path to your screenshot and update the demo link if you have a live version hosted somewhere. This will make your README more informative and helpful to users and contributors.
