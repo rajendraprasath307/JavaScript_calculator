@@ -16,7 +16,7 @@ You can see a live demo of the calculator [here](https://rajendraprasath307.gith
 
 ## Screenshots
 
-![Calculator Screenshot](./Screenshot 2024-05-22 151128.png)
+![Calculator Screenshot]("./Screenshot 2024-05-22 151128.png")
 
 ## Technologies Used
 
